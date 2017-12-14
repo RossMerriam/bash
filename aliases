@@ -11,6 +11,7 @@ alias .....="cd ../../../.."
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias s="cd ~/Sites"
+alias wpt="cd public_html/wp-content/themes" # must be inside site installation
 # alias p="cd ~/projects"
 # alias g="git"
 # alias h="history"
