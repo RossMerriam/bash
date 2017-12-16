@@ -6,6 +6,8 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
+alias ia="open $1 -a /Applications/iA\ Writer.app" # Open IA Writer
+
 # Shortcuts
 # alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
